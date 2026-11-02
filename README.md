@@ -1,2 +1,2 @@
 # Cricket-Tournament-Scoreboard
-An interactive cricket tournament scoreboard built using HTML, CSS, and JavaScript to track scores and display match information.
+An interactive Cricket Tournament Scoreboard website designed to display match scores, track team performance, and provide an engaging platform for managing and following cricket tournaments. Built using HTML, CSS, and JavaScript with a clean and user-friendly interface.
